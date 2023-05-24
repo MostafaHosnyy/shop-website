@@ -1,1 +1,84 @@
+body{
+font-family: 'Archivo', sans-serif;
+
+}
+.icsearch{
+    color: #FFD333  ;
+}
+.navbar-brand h3{
+  background-color: #3D464D ;
+  color: #FFD333;
+  font-size: 42px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.navbar-brand h3 span{
+background-color: #FFD333;
+color: #3D464D;
+}
+.oneDeop .btn{
+    background-color: #FFD333;
+    color: #3D464D;
+    padding: 10px;
+    width: 100%;
+    font-size: 17px;
+}
+.form-control:hover{
+    border-color: #FFD333;
+}
+.navItem{
+    background-color: #3D464D;
+    color: #FFD333;
+}
+.icon{
+    margin-left: 100px;
+}
+.shopDetail  a{
+    color: beige;
+    margin: 3px;
+}
+.navbar-notification i{
+   color: #FFD333;
+   font-size: 20px;
+}
+.card-img-overlay{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: aliceblue;
+    font-size: 20px;
+}
+.mianList li{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    font-size: 20px;
+}
+.mianList li i{
+    color: #FFD333;
+    font-size: 30px;
+}
+.itmes .cardItme{
+    background-color: white;
+    text-align: center;
+}
+.card-body:hover{
+    background-color: #FFD333;
+}
+.card-body h5{
+    padding: 16px;
+    font-size: 20px;
+}
+.prodect{
+    overflow: hidden;
+}
+.prodect img{
+    width: 100%;
+    transition: all 1s;
+}
+.cardItme:hover img{
+    transform: scale(1.2,1.2);
+}
+.headerCaption{
+    padding: 30px 0 ;
+}
 
